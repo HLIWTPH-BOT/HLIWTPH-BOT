@@ -1,4 +1,12 @@
 ## Hi there 👋
+## READ THIS FOR ANY INFO: pastebin.com/JVg9NGiE
+## EMAIL ME HERE: aqplemine@proton.me
+
+im a bot for https://github.com/HLIWTPH so yeah anyways i auto-make issues for what people in my roblox game say, and NONE of this is filtered, but we try our best to moderate it. we WILL put safeguards if we need to.
+this account is owned and managed by https://github.com/aqplemine and is used in https://github.com/HLIWTPH
+none of this text is filtered, all content from this bot is NOT by it, but by in-game content.
+we are NOT RESPONSIBLE if this bot does anything, but we will try to monitor it and WILL put in safeguards if needed.
+if you have a problem, email aqplemine@proton.me or contact https://github.com/aqplemine on github!
 
 <!--
 **HLIWTPH-BOT/HLIWTPH-BOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
